@@ -8,3 +8,6 @@
 [submodule "EMSS"]
 	path = EMSS
 	url = https://github.com/sangkyustat/emss
+[submodule "vcPB"]
+	path = vcPB
+	url = https://github.com/sangkyustat/vcpb
